@@ -1,0 +1,27 @@
+.logo {
+  .path {
+    stroke-dasharray: 100%;
+    animation: kootah 2s ease-in-out forwards;
+  }
+  .long {
+    stroke-dasharray: 4000;
+    animation: boland 3s ease-in-out forwards;
+  }
+
+  @keyframes kootah {
+    from {
+      stroke-dashoffset: 100%;
+    }
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes boland {
+    from {
+      stroke-dashoffset: 4500;
+    }
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+}
