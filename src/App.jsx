@@ -11,7 +11,7 @@ const App = () => {
         <Logo />
       </div>
       {/* <DelayedComponent waitBeforeShow={8000}>
-        <div className="contact-wrapper fadeInUp">salam</div>
+        <h1 style={{ color: "white" }}>Farzan Goozoo</h1>
       </DelayedComponent> */}
     </div>
   );
