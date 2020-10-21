@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farzin-firoozi.github.io/react-cv/static/css/main.f3dd4cc9.chunk.css",
+    "main.js": "/farzin-firoozi.github.io/react-cv/static/js/main.0007609b.chunk.js",
+    "main.js.map": "/farzin-firoozi.github.io/react-cv/static/js/main.0007609b.chunk.js.map",
+    "runtime-main.js": "/farzin-firoozi.github.io/react-cv/static/js/runtime-main.f1294523.js",
+    "runtime-main.js.map": "/farzin-firoozi.github.io/react-cv/static/js/runtime-main.f1294523.js.map",
+    "static/js/2.b8017117.chunk.js": "/farzin-firoozi.github.io/react-cv/static/js/2.b8017117.chunk.js",
+    "static/js/2.b8017117.chunk.js.map": "/farzin-firoozi.github.io/react-cv/static/js/2.b8017117.chunk.js.map",
+    "index.html": "/farzin-firoozi.github.io/react-cv/index.html",
+    "precache-manifest.a3e8bb5a7db49266157a5889aaab9a16.js": "/farzin-firoozi.github.io/react-cv/precache-manifest.a3e8bb5a7db49266157a5889aaab9a16.js",
+    "service-worker.js": "/farzin-firoozi.github.io/react-cv/service-worker.js",
+    "static/css/main.f3dd4cc9.chunk.css.map": "/farzin-firoozi.github.io/react-cv/static/css/main.f3dd4cc9.chunk.css.map",
+    "static/js/2.b8017117.chunk.js.LICENSE.txt": "/farzin-firoozi.github.io/react-cv/static/js/2.b8017117.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1294523.js",
+    "static/js/2.b8017117.chunk.js",
+    "static/css/main.f3dd4cc9.chunk.css",
+    "static/js/main.0007609b.chunk.js"
+  ]
+}
